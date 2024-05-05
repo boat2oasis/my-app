@@ -4,8 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How to run this application
 1.git clone https://github.com/siqi-zhongping/my-app.git
+
 2.cd my-app
+
 3.npm install
+
 4.npm start
 ## Available Scripts
 ### `npm test`
