@@ -10,12 +10,6 @@ function App() {
   return (
     <View style={styles.app}>
       <View style={styles.header}>
-        <Image
-          accessibilityLabel="React logo"
-          source={{ uri: logoUri }}
-          resizeMode="contain"
-          style={styles.logo}
-        />
         <Name name={name}/>
       </View>
       <Time/>
